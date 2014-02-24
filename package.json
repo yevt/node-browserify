@@ -20,7 +20,7 @@
     "javascript"
   ],
   "dependencies": {
-    "module-deps": "https://github.com/yevt/module-deps",
+    "module-deps": "yevt/module-deps",
     "browser-pack": "~2.0.0",
     "deps-sort": "~0.1.1",
     "shell-quote": "~0.0.1",
